@@ -1,0 +1,19 @@
+h3
+{
+    font-size: 25px;
+}
+.btn-success:hover
+{
+    background-color: red;
+}
+canvas
+{
+    border:50px dotted pink; 
+    height: 300px;
+    width: 300px;
+}
+@keyframes example
+{
+    from {box-shadow: 1px 1px 38px red;}
+    to {box-shadow: 1px 1px 38px yellow;}
+}
